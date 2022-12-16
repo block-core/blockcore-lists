@@ -1,5 +1,7 @@
 [
     "vault.blockcore.net",
     "dapp.blockcore.net",
-    "explorer.blockcore.net"
+    "explorer.blockcore.net",
+    "nostr.blockcore.net",
+    "metadata.nostr.com"
 ]
