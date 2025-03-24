@@ -17,3 +17,4 @@ The content of this repo is retrieved during build process of the apps that reli
 ### Angor
 
 [Deny Events](deny/angor.json)    
+[Relays](angor/relays.json)    
